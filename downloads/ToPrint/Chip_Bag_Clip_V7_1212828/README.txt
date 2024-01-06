@@ -1,0 +1,1 @@
+Chip Bag Clip V7 by srwilson58 on Thingiverse: https://www.thingiverse.com/thing:1212828

@@ -1,0 +1,7 @@
+LightBurn
+10mm/s 100% 3 Passes - will cut 2mm ply
+50mm/s 100% 2 Passes - will mark 2mm ply
+
+Creality print
+100% 500mm/min 2 pass will cut
+1Pass 100% 1500 will mark

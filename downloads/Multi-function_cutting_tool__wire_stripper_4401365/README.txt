@@ -1,0 +1,1 @@
+Multi-function cutting tool, wire stripper by zhwang168 on Thingiverse: https://www.thingiverse.com/thing:4401365
